@@ -1,4 +1,4 @@
-# Flutter app test autimation
+# Flutter app test automation
 
 ## This repository has simple flutter app made for purpose of learning test automation for flutter apps
 
